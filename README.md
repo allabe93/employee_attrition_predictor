@@ -1,3 +1,5 @@
+![Alt text for the image](https://raw.githubusercontent.com/allabe93/employee_attrition_predictor/main/quitting.jpg)
+
 # employee_attrition_predictor
 
 This project aims to predict employee attrition based on various features such as age, salary, job satisfaction, work-life balance, years at the company, and others. The main objective is to help organizations identify potential employee attrition risks and take appropriate actions to retain valuable employees.
