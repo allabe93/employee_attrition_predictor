@@ -21,9 +21,15 @@ The project consists of several components:
 
 ## Libraries Used
 •	Numpy: https://numpy.org/doc/stable/
+
 •	Pandas: https://pandas.pydata.org/pandas-docs/stable/index.html
+
 •	Seaborn: https://seaborn.pydata.org/
+
 •	Matplotlib: https://matplotlib.org/stable/contents.html
+
 •	Scikit-learn: https://scikit-learn.org/stable/user_guide.html
+
 •	Imbalanced-learn: https://imbalanced-learn.org/stable/
+
 •	Streamlit: https://docs.streamlit.io/en/stable/
