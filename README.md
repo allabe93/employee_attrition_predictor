@@ -4,6 +4,9 @@
 
 This project aims to predict employee attrition based on various features such as age, salary, job satisfaction, work-life balance, years at the company, and others. The main objective is to help organizations identify potential employee attrition risks and take appropriate actions to retain valuable employees.
 
+To achieve this goal we created a Streamlit web app which predicts the probability of employee attrition using a logistic regression model that was trained on preprocessed data. The app starts by importing necessary libraries and loading the files (data, scaler, and model) and sets up the structure of the web page with headers, an image, and text. It then generates input fields for each feature using the generate_input() function and the st.selectbox() function for the overtime feature. The user inputs are collected and preprocessed (e.g., encoding the overtime feature and scaling the input data) before being fed into the saved logistic regression model to generate a prediction. The prediction is then displayed as a probability, with different colors depending on the risk level of employee attrition.
+The "magic" happens when the user's input data is gathered, preprocessed, and the trained model is used to make a prediction. Once the prediction is achieved, it can be displayed it to the user with appropriate formatting
+
 ## Overview
 The project consists of several components:
 1.	Data Analysis and Feature Engineering: exploratory data analysis was performed on the IBM HR Analytics Employee Attrition & Performance dataset from Kaggle, and features were engineered for better model performance.
