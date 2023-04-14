@@ -20,7 +20,7 @@ The project consists of several components:
 
 •	employee_attrition_predictor_app.py: the Streamlit web application.
 
-•	Employee_Attrition_Predictor.ipynb: the Jupyter Notebook containing mainly the data analysis, some necessary cleaning, feature selection, the machine learning model and the refinement of it.
+•	employee_attrition_predictor.ipynb: the Jupyter Notebook containing mainly the data analysis, some necessary cleaning, feature selection, the machine learning model and the refinement of it.
 
 •	employee_attrition.twbx: the Tableau file.
 
